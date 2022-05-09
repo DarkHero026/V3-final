@@ -1,6 +1,6 @@
 # V3-final
 Vs studio extentions:
-Auto close tag
+<br>Auto close tag
 Auto rename tag
 Bracket pair color
 code spell checker
