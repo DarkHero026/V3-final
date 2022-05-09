@@ -1,12 +1,12 @@
 # V3-final
 Vs studio extentions:
 <br>Auto close tag
-Auto rename tag
-Bracket pair color
-code spell checker
-EsLint
-One dark pro
-php inte
-Prettier -> go to seeting and enable format on save
-vscode-icons
+<br>Auto rename tag
+<br>Bracket pair color
+<br>code spell checker
+<br>EsLint
+<br>One dark pro
+<br>php inte
+<br>Prettier -> go to seeting and enable format on save
+<br>vscode-icons
 
